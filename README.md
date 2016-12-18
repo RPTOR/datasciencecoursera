@@ -1,2 +1,2 @@
-# datasciencecoursera
-Data Science Project 1 for Coursera
+# Assignment 2
+R Programming Folder for assignments
